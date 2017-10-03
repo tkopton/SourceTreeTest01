@@ -5,3 +5,4 @@ where are my changes?
 some new text in the old file
 some more...
 master
+some changes in the master
